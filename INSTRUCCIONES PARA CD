@@ -1,4 +1,0 @@
-HACER npx create-react-app 'NOMBRE DE LA APP'
-HACER UN CD A LA APP CREADA Y HACER npm start
-INSTALAR react-router-dom@6.3.0
-ISTALAR npm i redux react-redux redux-thunk
